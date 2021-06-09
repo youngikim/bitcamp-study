@@ -1,3 +1,5 @@
 console.log("second try yay");
-console.log("Hello, world!");  
 console.log("oioioi");
+console.log("My first try");
+console.log("heheheh");
+
