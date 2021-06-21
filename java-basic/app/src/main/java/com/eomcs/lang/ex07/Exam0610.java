@@ -22,6 +22,6 @@ public class Exam0610 {
     System.out.println(value2);
     System.out.println(value3);
   }
-}
+} 
 
 
